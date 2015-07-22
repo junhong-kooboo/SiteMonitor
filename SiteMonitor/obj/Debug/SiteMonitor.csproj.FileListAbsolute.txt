@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\SiteMonitor\SiteMonitor\bin\Debug\SiteMonitor.exe.config
+C:\Users\Administrator\Desktop\SiteMonitor\SiteMonitor\bin\Debug\SiteMonitor.exe
+C:\Users\Administrator\Desktop\SiteMonitor\SiteMonitor\bin\Debug\SiteMonitor.pdb
+C:\Users\Administrator\Desktop\SiteMonitor\SiteMonitor\obj\Debug\SiteMonitor.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SiteMonitor\SiteMonitor\obj\Debug\SiteMonitor.exe
+C:\Users\Administrator\Desktop\SiteMonitor\SiteMonitor\obj\Debug\SiteMonitor.pdb
